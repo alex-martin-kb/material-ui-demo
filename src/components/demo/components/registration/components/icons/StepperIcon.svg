@@ -1,0 +1,10 @@
+<g>
+  <defs>
+    <mask id="hole">
+      <rect width="100%" height="100%" fill="white"/>
+      <circle r="8" cx="16" cy="16" fill="black"/>
+    </mask>
+  </defs>
+
+  <circle id="donut" r="16" cx="16" cy="16" mask="url(#hole)" />
+</g>
